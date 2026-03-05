@@ -1,0 +1,12 @@
+{
+  "name": "gus79-proxy",
+  "version": "1.0.0",
+  "description": "Proxy HTTPS per GUS79 web radio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
